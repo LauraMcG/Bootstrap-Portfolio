@@ -13,13 +13,14 @@ body {
 .navbar-default {
 	background-color: #fff;
 	width: 100%;
-	/*height: 72px;*/
+	height: 52px;
 	border-color: #ccc;
 	border-width: 0px 0px 2px 0px;
 	border-style: solid;
 }
 
-.navbar-brand {
+
+div .navbar .navbar-brand {
 	background-color: #4aaaa5;
 	font-family: 'Georgia', Times, serif;
 	font-size: 26px;
@@ -28,13 +29,8 @@ body {
 	color: #fff;
 }
 
-/*FIX THIS VVVVVV*/
-.navbar-brand a {
-	color: #fff;
-}
 
 .main {
-	/*margin-left: 10px;*/
 	background-color: #fff;
 	border-width: 1px;
 	border-color: #ddd;
@@ -94,8 +90,9 @@ h2 {
 }
 
 .caption {
+	position: ;
 	bottom: 12px;
-	width: 100%;
+	width: %;
 	background-color: #4aaaa5;
 	border: none;
 	padding: 10px 0px;
