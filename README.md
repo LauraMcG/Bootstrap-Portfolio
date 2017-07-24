@@ -11,4 +11,4 @@ Please view my current portfolio site at [lauramcginn.net](lauramcginn.net)!
 
 ## Technologies Used
 * HTML
-* [http://getbootstrap.com](Bootstrap) with custom CSS
+* [Bootstrap](http://getbootstrap.com) with custom CSS
